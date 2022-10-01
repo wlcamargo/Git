@@ -1,0 +1,3 @@
+-- Verificar Versões
+
+git reflog

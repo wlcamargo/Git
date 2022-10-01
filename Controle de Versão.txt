@@ -1,0 +1,7 @@
+-- Controle de Versão
+
+--Analisar todas as versões
+git reflog 
+
+--Copiar o Id da versão que deseja voltar
+git reset --hard id
