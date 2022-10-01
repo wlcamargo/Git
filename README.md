@@ -2,7 +2,7 @@
 
 Passo a Passo para Inicializar e Realizar o Push do Projeto
 
-1º - Inicilizar o Git
+1º - Inicializar o Git
 
 2º - Verificar status
 
