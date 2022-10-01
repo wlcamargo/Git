@@ -1,6 +1,6 @@
 # Git
 
-Comandos em Git - Passo a Passo para Inicializar e Realizar o Push do Projeto
+Passo a Passo para Inicializar e Realizar o Push do Projeto
 
 1º - Inicilizar o Git
 
