@@ -1,0 +1,3 @@
+--Associar Email
+
+git config --global user.email "wallacecpdg@gmail.com"

@@ -1,0 +1,3 @@
+-- Inicializar o Git
+
+git add .

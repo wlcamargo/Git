@@ -1,0 +1,3 @@
+-- Verificar Status do Git
+
+git status

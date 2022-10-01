@@ -1,0 +1,3 @@
+--Adicionar um Arquivo ao Controle de Versão
+
+git add " ".extensão
