@@ -15,3 +15,8 @@ Comandos em Git
 6º - Vincular ao Github
 
 7º - Realizar Push do Projeto
+
+
+------------------------------------------------------------------------------------------
+
+Para realizar controle de versão siga instruções do arquivo chamado "Controle de Versão"
