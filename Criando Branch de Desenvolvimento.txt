@@ -1,0 +1,24 @@
+-- Trabalhando com Branch
+
+--Verificar Branch Atual
+git branch 
+
+--Criar Branch Nova
+git branch dev
+
+--Trocar de Branch Nova com base na Master
+git checkout dev master
+
+--Adicionar Arquivos na Branch Dev
+git add .
+
+--Efetivar Operação
+git commit -m "Projeto em Dev"
+
+--Realizar Push Inicial com caminho da Branch Nova
+git push --set-upstream origin dev
+
+
+
+
+

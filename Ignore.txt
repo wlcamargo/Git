@@ -1,0 +1,11 @@
+-- Comando Usado para Ignorar Arquivos do Commit
+
+--Comando para criar o arquivo 
+touch .gitignore
+
+
+--Abrir o Arquivo criado e Adicionar o Nome dos Arquivos que Desejo Ignorar com a extensão
+
+--Se for uma pasta basta colocar o nome da pasta/
+
+Exemplo: pasta/

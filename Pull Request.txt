@@ -1,0 +1,19 @@
+--Trabalhando com Pull Request (Validação de Códigos)
+
+--Trocar a Branch Dev
+git checkout dev
+
+--Adicionar Arquivos ao Git
+git add .
+
+--Realizar Commit
+git commit -m "Scripts em Desenvolvimento"
+
+--Realizar Push
+-git push
+
+--Clicar em "Pull Request" no Github
+
+--Adicionar Mensagens Informando Alterações
+
+--Validar Aprovação clicando em "Merge Pull Request"

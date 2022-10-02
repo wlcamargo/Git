@@ -1,0 +1,20 @@
+-- Trabalhando com Merge
+
+--Trocar para Master
+git checkout master
+
+--Verificar que tudo está na última versão
+git pull
+
+--Realizar Merge da Branch Master com a Branch Dev
+git merge dev
+
+--Realizar Push
+git push
+
+
+
+
+
+
+
