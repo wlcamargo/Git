@@ -1,0 +1,3 @@
+-- Clonar Repositório da Nuvem para sua Máquina
+
+git clone "caminho do repositório"
