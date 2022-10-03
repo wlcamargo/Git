@@ -4,5 +4,5 @@ git config user.name
 -- Verificar Email
 git config user.email
 
--- Verificar Todas as Configurações
+-- Verificar Todas as Configurações do git
 git config --list
