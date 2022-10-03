@@ -8,11 +8,11 @@ Passo a Passo para Inicializar e Realizar o Push do Projeto
 
 3º - Associar Email e UserName
 
-4º - Adicionar Arquivos ao Git
+4º - Vincular ao Github
 
-5º - Commit 
+5º - Adicionar Arquivos ao Git
 
-6º - Vincular ao Github
+6º - Commit 
 
 7º - Realizar Push do Projeto
 
