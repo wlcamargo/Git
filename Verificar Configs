@@ -1,0 +1,8 @@
+-- Verificar User
+git config user.name
+
+-- Verificar Email
+git config user.email
+
+-- Verificar Todas as Configurações
+git config --list
